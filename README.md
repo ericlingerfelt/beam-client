@@ -1,1 +1,1 @@
-# beam-client
+Bellerophon Environment for Analysis of Materials Client
